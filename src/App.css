@@ -109,3 +109,21 @@ button > img {
   display: inline-block;
   position: relative;
 }
+
+.seat-legends {
+  margin: 40px 0px;
+  font-size: 17px;
+}
+
+.seat-legends > ul {
+  margin-top: 50px;
+}
+
+.seat-legends li {
+  padding: 10px;
+}
+
+.seat-legends li > button,
+.seat-legends li > img {
+  margin-right: 20px;
+}

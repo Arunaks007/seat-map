@@ -1,4 +1,5 @@
 import "./App.css";
+import SeatLegends from "./components/SeatLegends";
 import SeatMap from "./components/SeatMap";
 
 export default function App() {
@@ -35,6 +36,7 @@ export default function App() {
             </center>
             <SeatMap />
           </div>
+          <SeatLegends />
         </div>
       </div>
     </div>
