@@ -1,38 +1,111 @@
+:root {
+  --tooltip-text-color: white;
+  --tooltip-background-color: black;
+  --tooltip-margin: 30px;
+  --tooltip-arrow-size: 6px;
+}
+
 .App {
+  font-family: sans-serif;
   text-align: center;
+  border-radius: 5px;
+  padding: 15px;
+  border: 3px solid lightgray;
+  margin: 10px 10px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+* {
+  box-sizing: border-box;
+  list-style-type: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.seat-container-header {
+  text-align: left;
+  font-size: x-large;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.destination-header {
+  background-color: skyblue;
+  padding: 10px 0;
+  margin-top: 15px;
+}
+
+.destination-header > label {
+  padding: 25px;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.seat-map-container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: flex-start;
+  margin-top: 10px;
 }
 
-.App-link {
-  color: #61dafb;
+.passenger-details,
+.passenger-details th,
+.passenger-details td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 2px;
+  margin-right: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.passenger-details th {
+  background-color: skyblue;
+}
+
+.seat-rows {
+  border: 2px solid grey;
+  border-radius: 10px;
+}
+
+.seat-row {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: -5px;
+  margin-top: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+.seat-row > li {
+  padding: 10px;
+  width: 30px;
+  margin-left: 5px;
+}
+
+ul:first-child {
+  margin-left: 10px;
+}
+
+ul button {
+  cursor: pointer;
+  border: none;
+}
+
+button > img {
+  margin-left: -2px;
+  margin-top: 1.5px;
+}
+
+.Tooltip-Tip {
+  position: absolute;
+  border-radius: 5px;
+  transform: translateX(-50%);
+  padding: 6px;
+  color: var(--tooltip-text-color);
+  background: var(--tooltip-background-color);
+  font-size: 16px;
+  font-family: sans-serif;
+  line-height: 1;
+  white-space: nowrap;
+  text-align: left;
+  z-index: 100;
+  top: -70px;
+}
+
+.Tooltip-Wrapper {
+  display: inline-block;
+  position: relative;
 }

@@ -1,0 +1,1936 @@
+[
+  [
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": "A"
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": "B"
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": "C"
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": "D"
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": "E"
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": "F"
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": "G"
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": "H"
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": "J"
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": "K"
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "value": 22
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": true,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": true,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": true,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "value": 23
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": true,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": true,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": true,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "seatNumber": "",
+      "value": 24
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "24A",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "24B",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "24C",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "24D",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "24E",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "24F",
+      "value": 3
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "24G",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": true,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "24H",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": true,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "24J",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "24K",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "value": 25
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": true,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": true,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": true,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": true,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": true,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "value": 26
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": true,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "value": 28
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": true,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "value": 29
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": true,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": true,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": true,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "value": 30
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": true,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": true,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": true,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [],
+      "value": 31
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": true,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": true,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": true,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": true,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": false,
+      "isPaid": false,
+      "isFreespace": true,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    },
+    {
+      "isAvailable": false,
+      "isBassinet": false,
+      "isPreferred": false,
+      "isNotBookable": true,
+      "isPaid": false,
+      "isFreespace": false,
+      "isPassengerPresent": false,
+      "characteristics": [
+        { "description": "NotAllowedForInfants" },
+        { "description": "Aisle" }
+      ],
+      "seatNumber": "",
+      "value": ""
+    }
+  ]
+]
